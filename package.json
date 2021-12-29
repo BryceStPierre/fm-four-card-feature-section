@@ -1,0 +1,27 @@
+{
+  "name": "fm-four-card-feature-section",
+  "version": "1.0.0",
+  "description": "My solution to the Four card feature section challenge on Frontend Mentor.",
+  "main": "index.js",
+  "scripts": {
+    "build": "sass style.scss style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BryceStPierre/fm-four-card-feature-section.git"
+  },
+  "keywords": [
+    "css",
+    "bem",
+    "sass"
+  ],
+  "author": "Bryce St. Pierre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BryceStPierre/fm-four-card-feature-section/issues"
+  },
+  "homepage": "https://github.com/BryceStPierre/fm-four-card-feature-section#readme",
+  "devDependencies": {
+    "sass": "^1.45.1"
+  }
+}
